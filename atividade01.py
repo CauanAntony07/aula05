@@ -12,7 +12,7 @@ elif media >= 5 and media < 7:
     print(f'em recuperação.')
 
 else:
-    print(f'Reprovado')
+    print(f'reprovado')
 
     
  
